@@ -26,32 +26,32 @@ const headerNav = [
     {
         link: "",
         text: "",
-        icon: <img src={Manotomo1}/>
+        icon: <img src={Manotomo2}/>
     },
     {
         link: "",
         text: "",
-        icon: <img src={Manotomo1}/>
+        icon: <img src={Manotomo2}/>
     },
     {
         link: "",
         text: "",
-        icon: <img src={Manotomo1}/>
+        icon: <img src={Manotomo2}/>
     },
     {
         link: "",
         text: "",
-        icon: <img src={Manotomo1}/>
+        icon: <img src={Manotomo2}/>
     },
     {
         link: "",
         text: "",
-        icon: <img src={Manotomo1}/>
+        icon: <img src={Manotomo2}/>
     },
     {
         link: "",
         text: "",
-        icon: <img src={Manotomo1}/>
+        icon: <img src={Manotomo2}/>
     },
 ]
 
@@ -102,7 +102,7 @@ export default class HeaderSection extends Component<HeaderProps, HeaderState>
             <>
                 <header className="App-header App-Birthday-header">
                     <div style={{height: 50}}/>
-                    <img id="manotomo1" src={Manotomo1}/>
+                    <img id="manotomo1" src={Manotomo2}/>
                     <img id="manotomo2" src={Manotomo2}/>
                 </header>
                 <div className="separator">
